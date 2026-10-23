@@ -130,15 +130,15 @@ $totalPagar = $preco + $valorImposto;
             <li class = "lis_02" ><a href="page3.php">Atividade 3</a></li>
             <li class = "lis_02" ><a href="page4.php">Atividade 4</a></li>
             <li class = "lis_02" ><a href="page5.php">Atividade 5</a></li>
-            <li class = "lis_02" ><a href="page7.php">Atividade 6</a></li>
+            <li class = "lis_02" ><a href="page6.php">Atividade 6</a></li>
             <li class = "lis_02" ><a href="page7.php">Atividade 7</a></li>
             <li class = "lis_02" ><a href="page8.php">Atividade 8</a></li>
             <li class = "lis_02" ><a href="page9.php">Atividade 9</a></li>
             <li class = "lis_02" ><a href="page10.php">Atividade 10</a></li>
             <li class = "lis_02" ><a href="page11.php">Atividade 11</a></li>
             <li class = "lis_02" ><a href="page12.php">Atividade 12</a></li>
-            <li class = "lis_02" ><a href="#">Atividade 13</a></li>
-            <li class = "lis_02" ><a href="page14.php">Atividade 14</a></li>
+            <li class = "lis_02" ><a href="page13.php">Atividade 13</a></li>
+            <li class = "lis_02" ><a href="#">Atividade 14</a></li>
             <li class = "lis_02" ><a href="page15.php">Atividade 15</a></li>
             <li class = "lis_02" ><a href="desafio.php">Desafio</a></li>
         </ul>
